@@ -1,0 +1,6 @@
+include CONTRIBUTING.md requirements-reproduction.txt
+graft docs
+graft examples
+graft scripts
+graft results
+global-exclude __pycache__ *.py[cod]

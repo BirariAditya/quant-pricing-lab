@@ -1,0 +1,4 @@
+# Exact numerical dependencies used for the committed experiments.
+# Recorded environment: CPython 3.12.14 on Windows.
+numpy==2.5.4
+QuantLib==1.44
